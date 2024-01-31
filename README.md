@@ -16,7 +16,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 #### Clone the repository
 
 ```bash
-git clone https://github.com/shaon-sarker/laravel-webapp.git
+git clone https://github.com/shaon-sarker/Laravel-Authentication.git
 ```
 
 #### Copy .env.example file to .env and edit credentials also set app url
